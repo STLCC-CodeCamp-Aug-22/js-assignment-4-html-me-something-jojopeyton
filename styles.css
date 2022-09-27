@@ -11,12 +11,12 @@
     color: red;
 }
 
-.center {
+#center {
     text-align: center;
     border:3 px
 }
 
-.funParagraph {
+#funParagraph {
     color: green;
 }
 
