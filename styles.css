@@ -1,14 +1,13 @@
-.body {
+#body {
     margin: 8 px;
     display: block;
     padding-top: 50 px;
     padding-right: 30 px;
     padding-bottom: 50 px;
     padding-left: 80 px;
-    background-color: black;
 }
 
-.Heading {
+#mainHeading {
     color: red;
 }
 
@@ -21,17 +20,17 @@
     color: green;
 }
 
-.colorChange {
+#colorChange {
     color:orangered;
 }
-.colorChange2 {
+#colorChange2 {
     color: yellow;
 }
 
-.colorChange3 {
+#colorChange3 {
     color: blue;
 }
 
-p {
+#p {
     text-align: center;
 }
