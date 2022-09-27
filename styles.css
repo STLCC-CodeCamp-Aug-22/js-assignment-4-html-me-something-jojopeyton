@@ -11,7 +11,7 @@
     color: red;
 }
 
-#center {
+.center {
     text-align: center;
     border:3 px
 }
@@ -29,8 +29,9 @@
 
 #colorChange3 {
     color: blue;
+    text-align: center;;
 }
 
-#p {
+.p {
     text-align: center;
 }
