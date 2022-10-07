@@ -4,7 +4,7 @@ html{
 body {
     max-width: 800px;
     width: 100%;
-    margin: 0px auto;
+    margin: 8px;
     background-color: lavender;
 }
 
@@ -44,7 +44,7 @@ h3 {
     border:3 px
 }
 
-#funParagraph {
+.funParagraph {
     color: green;
 }
 
